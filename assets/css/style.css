@@ -1,0 +1,29 @@
+html {
+	position:relative;
+	min-height: 100%
+}
+body {
+	margin: 0 0 100px;
+	min-height: 100%;
+}
+header {
+	width:100%;
+	text-align: center;
+}
+.wrapper {
+	width: 960px;
+	min-height: 95%;
+	text-align: center;
+	margin: auto;
+}
+footer {
+	width: 100%;
+	height: 100px;
+	line-height: 100px;
+	bottom: 0;
+	border-top: solid 1px;
+	border-color: #D3D3D3;
+	text-align: center;
+	position: absolute;
+	overflow:hidden;
+}
